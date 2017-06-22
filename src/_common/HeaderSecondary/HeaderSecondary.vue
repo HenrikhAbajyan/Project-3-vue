@@ -72,6 +72,14 @@
 .Dropdown {
     display: none;
     position: relative;
+    margin-left: auto;
+}
+
+.Dropbtn {
+  border: none;
+  background-color: inherit;
+  color: #006cb7;
+  font-size: 1.8rem;
 }
 
 .DropdownContent {
