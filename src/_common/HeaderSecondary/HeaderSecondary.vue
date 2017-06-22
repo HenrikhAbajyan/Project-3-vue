@@ -8,21 +8,22 @@
         <div class="Dropdown">
           <button class="Dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
           <div class="DropdownContent">
-            <a href="#">Home</a>
-            <a href="#">Sliders</a>
-            <a href="#">Galleries</a>
+            <a href="/">Home</a>
+            <a href="/products">Products</a>
+            <!-- <a href="#">Galleries</a>
             <a href="#">Pages</a>
             <a href="#">Blog</a>
-            <a href="#">Contact</a>
+            <a href="#">Contact</a> -->
           </div>
         </div>
         <div class="Nav">
-          <a href="#">Home</a>
-          <a href="#">Sliders</a>
+          <a href="/">Home</a>
+          <a href="/products">Products</a>
+          <!-- <a href="#">Sliders</a>
           <a href="#">Galleries</a>
           <a href="#">Pages</a>
           <a href="#">Blog</a>
-          <a href="#">Contact</a>
+          <a href="#">Contact</a> -->
         </div>
 
       </div>
