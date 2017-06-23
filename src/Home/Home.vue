@@ -23,11 +23,11 @@
 <script>
 import Header from '../_common/Header/Header';
 import HeaderSecondary from '../_common/HeaderSecondary/HeaderSecondary';
-import Intro from '../_common/Intro/Intro';
-import Subscription from '../_common/Subscription/Subscription';
-import Benefits from '../_common/Benefits/Benefits';
-import Services from '../_common/Services/Services';
-import Testemonials from '../_common/Testemonials/Testemonials';
+import Intro from '../Home/Intro/Intro';
+import Subscription from '../Home/Subscription/Subscription';
+import Benefits from '../Home/Benefits/Benefits';
+import Services from '../Home/Services/Services';
+import Testemonials from '../Home/Testemonials/Testemonials';
 import FooterSecondary from '../_common/FooterSecondary/FooterSecondary';
 import Footer from '../_common/Footer/Footer';
 
